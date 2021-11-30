@@ -105,11 +105,3 @@ Execute the program
 
 ~~~
 # OUPUT
-<<<<<<< HEAD
-![client side output](https://user-images.githubusercontent.com/93427303/144056613-9a0b0ae4-b225-4f98-a051-af19c7f3799d.png)
-=======
-
->>>>>>> be7ef0bdfb8e97be18c4c7dd86899e08eb722997
-
-
-
