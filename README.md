@@ -23,9 +23,7 @@ Execute the program
 <img src="C:\Users\Karthik\Documents\New folder\saveetha logo.png.crdownload" width="100%">
 <table border=1 allign="center" width="100%" bordercolor="blue" bgcolor="yellow">
 	<tr>
-    	<th colspan=8>Timetable</th>
-       
-        
+    	<th colspan=8>Timetable</th>     
     </tr>
     <tr>
     	<th colspan=2>REF NO:</th>
@@ -50,9 +48,7 @@ Execute the program
         <td>19MA221</td>
         <td>19MA221</td>
         <td>19MA220</td>
-        <td>19MA220</td>
-        
-        
+        <td>19MA220</td>    
     </tr>
     <tr>
     	<td>TUESDAY</td>
