@@ -17,7 +17,7 @@ Execute the program
 <!DOCTYPE html>
 <html>
 <head>
-<title>TimeTamble</title>
+<title>TimeTable</title>
 </head>
 <body>
 <img src="C:\Users\Karthik\Documents\New folder\saveetha logo.png.crdownload" width="100%">
