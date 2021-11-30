@@ -45,11 +45,8 @@ Execute the program
              <td>Banking</td>
              <td align="center">-</td>
              <td align="center">EP</td>
-         </tr>
-  
-         
-      </table>
-      
+         </tr> 
+      </table> 
    </body>
 </html>
 
