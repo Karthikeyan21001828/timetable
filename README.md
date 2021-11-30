@@ -105,3 +105,6 @@ Execute the program
 
 ~~~
 # OUPUT
+![server side output](https://user-images.githubusercontent.com/93427303/144058926-6cca3db7-e9fb-475e-b32c-1626cb725501.png)
+![client side output](https://user-images.githubusercontent.com/93427303/144058961-308510e0-02c0-439c-bfab-36a920ebdc12.png)
+
