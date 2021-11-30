@@ -105,6 +105,4 @@ Execute the program
 
 ~~~
 # OUPUT
-![client side output](https://user-images.githubusercontent.com/93427303/144054473-84efa7db-b831-4818-803d-3f7697ef2d79.png)
-![server side output](https://user-images.githubusercontent.com/93427303/144055021-f1be6acd-244a-4dea-806e-8a20e781978f.png)
 
