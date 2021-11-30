@@ -20,7 +20,8 @@ Execute the program
 <title>TimeTamble</title>
 </head>
 <body>
-<table border=1>
+<img src="C:\Users\Karthik\Documents\New folder\saveetha logo.png.crdownload" width="100%">
+<table border=1 allign="center" width="100%" bordercolor="blue" bgcolor="yellow">
 	<tr>
     	<th colspan=8>Timetable</th>
        
@@ -92,17 +93,16 @@ Execute the program
         <td>19AI402</td>
     </tr>     
 </table>
-<h1>1.19AI401-Fundamentals Of Web Technology(Faculty-Obet Otto C)
-    2.19MA221-Linear Algebra Laboratory(Faculty-Archana S H)
-    3.19MA220-Mathematics For Artificial Intellegence(Faculty-Archana S H)
-    4.19AI302-Enginering Design And Modelling(Faculty-Sridhar S)
-    5.(ECA051-AD)-Mentoring-AD1(Faculty-Archana S H)
-    6.19AI303-Engineering Mechanics And Product Development(Faculty-Sridhar S)
-    7.19EY703-System Of Numerical And Logical Terminologies(Faculty-ManojKumar S)
-    8.19AI301-Python Programming(Faculty-Archana S H)
-    9.19MC802-Environmental Science(Faculty-Muthupandian P)
-    10.19AI402-Web Technology Laboratory(Faculty-Obed Otto C)
-</h1>
+<h2>1.19AI401-Fundamentals Of Web Technology(Faculty-Obet Otto C)</h2>
+<h2>2.19MA221-Linear Algebra Laboratory(Faculty-Archana S H)</h2>
+<h2>3.19MA220-Mathematics For Artificial Intellegence(Faculty-Archana S H)</h2>
+<h2>4.Design And Modelling(Faculty-Sridhar S)</h2>
+<h2>5.(ECA051-AD)-Mentoring-AD1(Faculty-Archana S H)</h2>
+<h2>6.19AI303-Engineering Mechanics And Product Development(Faculty-Sridhar S)</h2>
+<h2>7.19EY703-System Of Numerical And Logical Terminologies(Faculty-ManojKumar S)</h2>
+<h2>8.19AI301-Python Programming(Faculty-Archana S H)</h2>
+<h2>9.19MC802-Environmental Science(Faculty-Muthupandian P)</h2>
+<h2>10.19AI402-Web Technology Laboratory(Faculty-Obed Otto C)</h2>
 </body>
 </html>
 
