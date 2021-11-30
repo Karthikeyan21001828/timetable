@@ -20,16 +20,16 @@ Execute the program
 <title>TimeTable</title>
 </head>
 <body>
-<img src="C:\Users\Karthik\Documents\New folder\saveetha logo.png.crdownload" width="100%">
+<img src="C:\Users\Karthik\Downloads\WEB_LOGO-01.png" width="100%">
 <table border=1 allign="center" width="100%" bordercolor="blue" bgcolor="yellow">
-	<tr>
+	 <tr>
     	<th colspan=8>Timetable</th>     
     </tr>
     <tr>
     	<th colspan=2>REF NO:</th>
-      <th colspan=2>21001828</th> 
-      <th colspan=2>NAME:</th>
-      <th colspan=2>KARTHIKEYAN.K</th>  
+        <th colspan=2>21001828</th> 
+        <th colspan=2>NAME:</th>
+        <th colspan=2>KARTHIKEYAN.K</th>  
     </tr>
     <tr>
     	<th>Days</th>
@@ -66,7 +66,7 @@ Execute the program
         <td>19EY703</td>
         <td>19AI301</td>
         <td>19AI301</td>
-        <td rowspan=3>LUNCH</td>
+        <th rowspan=3>LUNCH BREAK</th>
         <td>19AI401</td>
         <td>19AI401</td>
     </tr>
