@@ -14,6 +14,7 @@ Add your timetable
 Execute the program
 
 # CODE
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -101,15 +102,11 @@ Execute the program
 <h2>10.19AI402-Web Technology Laboratory(Faculty-Obed Otto C)</h2>
 </body>
 </html>
-
+```
 
 # OUPUT
 <<<<<<< HEAD
 ![output](clientoutput.png)
 ![output](serveroutput.png)
 ![output](validator.png)
-=======
-
-
->>>>>>> 34c422eb47d82d76faf7fb8f3991c82e6d432228
 
