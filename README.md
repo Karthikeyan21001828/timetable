@@ -20,8 +20,8 @@ Execute the program
 <title>TimeTable</title>
 </head>
 <body>
-<img src="C:\Users\Karthik\Downloads\WEB_LOGO-01.png" width="100%">
-<table border=1 allign="center" width="100%" bordercolor="blue" bgcolor="yellow">
+<img src='C:\Users\Karthik\Documents\EX02\timetable\logo.png' alt='logo'>
+<table border=1>
 	 <tr>
     	<th colspan=8>Timetable</th>     
     </tr>
@@ -102,8 +102,8 @@ Execute the program
 </body>
 </html>
 
-
-~~~
 # OUPUT
-![client_output](https://user-images.githubusercontent.com/93427303/144060493-94fa20ba-11a9-435c-8a03-b7e286a16a24.png)
+![output](clientoutput.png)
+![output](serveroutput.png)
+![output](validator.png)
 
