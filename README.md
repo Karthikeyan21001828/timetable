@@ -104,7 +104,12 @@ Execute the program
 
 
 # OUPUT
+<<<<<<< HEAD
 ![output](clientoutput.png)
 ![output](serveroutput.png)
 ![output](validator.png)
+=======
+
+
+>>>>>>> 34c422eb47d82d76faf7fb8f3991c82e6d432228
 
