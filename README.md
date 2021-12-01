@@ -21,7 +21,7 @@ Execute the program
 <title>TimeTable</title>
 </head>
 <body>
-<img src='C:\Users\Karthik\Documents\EX02\timetable\logo.png' alt='logo'>
+<img src="logo.png" alt='logo'>
 <table border=1>
 	 <tr>
     	<th colspan=8>Timetable</th>     
@@ -108,4 +108,5 @@ Execute the program
 ![output](clientoutput.png)
 ![output](serveroutput.png)
 ![output](validator.png)
+
 
