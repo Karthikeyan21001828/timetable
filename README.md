@@ -105,7 +105,6 @@ Execute the program
 ```
 
 # OUPUT
-<<<<<<< HEAD
 ![output](clientoutput.png)
 ![output](serveroutput.png)
 ![output](validator.png)
